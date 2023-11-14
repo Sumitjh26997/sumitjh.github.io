@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Sumit Hotchandani
+Sumit Hotchandani
+Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+sumitjh@uw.edu
 
 Phone
-+1 (213) 352-2795
++1 (425) 354-0517
 
 Birthday
-June 23, 1982
+September 26, 1997
 
 Location
-Sacramento, California, USA
+Bothell, Washington, USA
 
 # navbar
 
